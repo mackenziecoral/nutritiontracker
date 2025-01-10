@@ -59,7 +59,7 @@ def plot_combined_trends(daily_totals, goals, nutrients):
 st.title("Nutrition Tracker Dashboard")
 
 # File path for the Excel file
-file_path = "Macro tracker.xlsx"  # Ensure this matches the file name in your GitHub repository
+file_path = "./Macro tracker.xlsx"  # Local file path for Streamlit to access
 
 # Load data
 try:
