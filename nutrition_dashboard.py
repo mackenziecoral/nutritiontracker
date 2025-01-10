@@ -59,7 +59,7 @@ def plot_combined_trends(daily_totals, goals, nutrients):
 st.title("Nutrition Tracker Dashboard")
 
 # File path for the Excel file
-file_path = "./Macro tracker.xlsx"  # Local file path for Streamlit to access
+file_path ="https://onedrive.live.com/download/x/c/3690a4eea179be05/EXS2De4EQ3JFvVCMltmIZhEBr-ZdWaub4Hb5p1tErSyiaw?e=OH7rjo"  # Local file path for Streamlit to access
 
 # Load data
 try:
